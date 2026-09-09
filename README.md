@@ -10,7 +10,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17.8-4169E1?logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)
 
-> 2026 오픈소스 개발자 대회 · 티맥스티베로 기업 과제
+> 2026 오픈소스 개발자 대회 · 티맥스티베로 기업 과제 <br>
+> **1차 서면평가 합격 (상위 3팀)**
 
 문서를 올려 두면 필요할 때 **의미로 찾아 주는** 문서 관리 시스템입니다. 파일명이나 정확한 단어를 기억하지 못해도, 묻고 싶은 내용을 그대로 적으면 관련된 대목을 찾아 줍니다.
 
